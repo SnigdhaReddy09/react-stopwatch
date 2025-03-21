@@ -6,7 +6,7 @@ import Stopwatch from './Components/stopwatch.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* <App /> */}
-    <Stopwatch/>
+     {/* <App /> */}
+     <Stopwatch/>
   </StrictMode>,
 )
